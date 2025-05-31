@@ -48,3 +48,7 @@ How to manage exceptions and error cases properly.
 This project can easily be expanded in the future. For example, we could build a GUI using JavaFX or Swing, add a 7-day forecast feature, or allow users to compare the weather of multiple cities at once. But even in its current form, it serves as a great example of using Java for something practical and real-time.
 
 In summary, this project is not just about checking weather data — it’s about learning how to interact with the internet using Java, work with live data, and build useful tools. It’s a solid base for anyone looking to learn API integration and JSON handling in a beginner-friendly way.
+
+
+##output[CHATCLIENT]:-
+![Image](https://github.com/user-attachments/assets/e0e1a3d8-c2c1-4ea7-b302-6662b31cb77e)
